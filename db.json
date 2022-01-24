@@ -11,7 +11,7 @@
       "descriptionTwo": "With an easy to use layout that supports both desktop and mobile devices, you can effortlessly navigate the website and find exactly what you are looking for.",
       "descriptionImgTwo": "/SwagImgTwo.png",
       "descriptionImgOne": "/SwagImgOne.png",
-      "iconOne":"/javascriptIcon.svg",
+      "iconOne":"javascriptIcon.svg",
       "iconTwo":"/reactIcon.svg",
       "iconThree": "/cssIcon.svg"
     },
