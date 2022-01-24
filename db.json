@@ -8,7 +8,7 @@
       "descriptionTitleOne": "Skateboarding Culture At Your Fingertips",
       "descriptionOne": "SWAG is an online apparell and accessories ecommerce website that believes in the democracy of style and making high quality products that can withstand anything in the streets while also maintaing your own unique look.",
       "descriptionTitleTwo": "Quality Brand Names And Accessories",
-      "descriptionTwo": "Our is just meant to catch your eyes and pull you in. As we all know, if the website looks good, then the company must provide exceptional service. Take a look for yourself!",
+      "descriptionTwo": "With an easy to use layout that supports both desktop and mobile devices, you can effortlessly navigate the website and find exactly what you are looking for.",
       "descriptionImgTwo": "/SwagImgTwo.png",
       "descriptionImgOne": "/SwagImgOne.png",
       "iconOne":"/javascriptIcon.svg",
@@ -23,7 +23,7 @@
       "descriptionOne": "With a simple ui and no need to create an account or login, this application was built with laziness in mind and allows a quick and easy way of creating any sorts of list for whatever you need",
       "descriptionImgOne": "/simpleTodoPhones.png",
       "iconOne":"/javascriptIcon.svg",
-      "iconTow":"/reactIcon.svg",
+      "iconTwo":"/reactIcon.svg",
       "iconThree": "/cssIcon.svg",
       "iconFour": "",
       "backgroundColor": "#1B99FA"
