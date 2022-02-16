@@ -13,7 +13,9 @@
       "descriptionImgOne": "/SwagImgOne.png",
       "iconOne":"/javascriptIcon.svg",
       "iconTwo":"/reactIcon.svg",
-      "iconThree": "/cssIcon.svg"
+      "iconThree": "/cssIcon.svg",
+      "liveUrl": "https://swag-client.vercel.app/",
+      "githubUrl": "https://github.com/JackXN/SWAG-CLIENT"
     },
 
      {
@@ -26,7 +28,9 @@
       "iconTwo":"/reactIcon.svg",
       "iconThree": "/cssIcon.svg",
       "iconFour": "",
-      "backgroundColor": "#1B99FA"
+      "backgroundColor": "#1B99FA",
+      "liveUrl": "https://uitodo.vercel.app/",
+      "githubUrl": "https://github.com/JackXN/devtodo"
     },
     {
       "id": 3,
@@ -41,7 +45,9 @@
       "iconTow":"",
       "iconThree": "",
       "iconFour": "",
-      "backgroundColor": "#EC6A5F"
+      "backgroundColor": "#EC6A5F",
+      "liveUrl": "https://awesome-franklin-363254.netlify.app/",
+      "githubUrl": "https://github.com/JackXN/Pomodoro-Timer"
     },
     {
      "id": 4,
@@ -56,7 +62,9 @@
      "iconTow":"",
      "iconThree": "",
      "iconFour": "",
-     "backgroundColor": "#838080"
+     "backgroundColor": "#838080",
+     "liveUrl": "https://periodic-tables-frontend-g5bb766k5-keithfrazier98.vercel.app/dashboard",
+     "githubUrl": "https://github.com/JackXN/Restaurant-Reservation"
     }
 
 
