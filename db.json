@@ -65,6 +65,22 @@
      "backgroundColor": "#838080",
      "liveUrl": "https://periodic-tables-frontend-g5bb766k5-keithfrazier98.vercel.app/dashboard",
      "githubUrl": "https://github.com/JackXN/Restaurant-Reservation"
+    },
+    {
+    "id": 5,
+    "title": "SWAG.",
+    "backgroundColor": "#070A0E",
+    "descriptionTitleOne": "Skateboarding Culture At Your Fingertips",
+    "descriptionOne": "SWAG is an online apparell and accessories ecommerce website that believes in the democracy of style and making high quality products that can withstand anything in the streets while also maintaing your own unique look.",
+    "descriptionTitleTwo": "Quality Brand Names And Accessories",
+    "descriptionTwo": "With an easy to use layout that supports both desktop and mobile devices, you can effortlessly navigate the website and find exactly what you are looking for.",
+    "descriptionImgTwo": "/SwagImgTwo.png",
+    "descriptionImgOne": "/SwagImgOne.png",
+    "iconOne":"/javascriptIcon.svg",
+    "iconTwo":"/reactIcon.svg",
+    "iconThree": "/cssIcon.svg",
+    "liveUrl": "https://swag-client.vercel.app/",
+    "githubUrl": "https://github.com/JackXN/SWAG-CLIENT"
     }
 
 
