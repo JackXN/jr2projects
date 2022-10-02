@@ -68,19 +68,16 @@
     },
     {
     "id": 5,
-    "title": "SWAG.",
+    "title": "Batch Forum.",
     "backgroundColor": "#070A0E",
-    "descriptionTitleOne": "Skateboarding Culture At Your Fingertips",
-    "descriptionOne": "SWAG is an online apparell and accessories ecommerce website that believes in the democracy of style and making high quality products that can withstand anything in the streets while also maintaing your own unique look.",
-    "descriptionTitleTwo": "Quality Brand Names And Accessories",
-    "descriptionTwo": "With an easy to use layout that supports both desktop and mobile devices, you can effortlessly navigate the website and find exactly what you are looking for.",
-    "descriptionImgTwo": "/SwagImgTwo.png",
+    "descriptionTitleOne": "Web Developer Content",
+    "descriptionOne": "Learn About React, Typescript, Database Management, Graphic Design, Hardware and development",
     "descriptionImgOne": "/SwagImgOne.png",
     "iconOne":"/javascriptIcon.svg",
     "iconTwo":"/reactIcon.svg",
     "iconThree": "/cssIcon.svg",
-    "liveUrl": "https://swag-client.vercel.app/",
-    "githubUrl": "https://github.com/JackXN/SWAG-CLIENT"
+    "liveUrl": "https://www.batchforum.com",
+    "githubUrl": "https://github.com/JackXN/Batchforum"
     }
 
 
