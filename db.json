@@ -69,10 +69,10 @@
     {
     "id": 5,
     "title": "Batch Forum.",
-    "backgroundColor": "#070A0E",
+    "backgroundColor": "black",
     "descriptionTitleOne": "Web Developer Content",
     "descriptionOne": "Learn About React, Typescript, Database Management, Graphic Design, Hardware and development",
-    "descriptionImgOne": "/SwagImgOne.png",
+    "descriptionImgOne": "/db.png",
     "iconOne":"/javascriptIcon.svg",
     "iconTwo":"/reactIcon.svg",
     "iconThree": "/cssIcon.svg",
