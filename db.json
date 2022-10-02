@@ -76,13 +76,13 @@
     "backgroundColor": "green",
     "descriptionTitleOne": "Web Developer Content",
     "descriptionOne": "Learn About React, Typescript, Database Management, Graphic Design, Hardware and development",
-    "descriptionImgOne": "/db.png",
+    "descriptionImgOne": "none",
     "iconOne":"/javascriptIcon.svg",
     "iconTwo":"/reactIcon.svg",
     "iconThree": "/cssIcon.svg",
     "liveUrl": "https://www.batchforum.com",
     "githubUrl": "https://github.com/JackXN/Batchforum",
-    "customBackground": "/db.png"
+    "customBackground": "/black"
     }
 
 
